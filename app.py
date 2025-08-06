@@ -6,7 +6,7 @@
 # import os
 
 # # --- Configuration ---
-# MODEL_PATH = "models/waste_classifier_v2.tflite"
+# MODEL_PATH = "waste_classifier_v2.tflite"
 # CLASS_NAMES = sorted([
 #     'aerosol_cans', 'aluminum_food_cans', 'aluminum_soda_cans', 
 #     'cardboard_boxes', 'cardboard_packaging', 'clothing', 'coffee_grounds', 
@@ -197,3 +197,4 @@ else:
     st.info("Please upload an image or take a picture to get a prediction.")
     
     
+
